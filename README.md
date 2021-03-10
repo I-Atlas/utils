@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/I-Atlas/configs?style=flat-square)
 
-Just my configs. Not more.
+Just my configs.
 
 ## 📑 License
 
